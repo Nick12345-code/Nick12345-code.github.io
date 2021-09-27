@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['validate_3c_20trunnable_20_3e_16',['Validate&lt; TRunnable &gt;',['../d9/d99/class_null_framework_exception_1_1_runnable_utils.html#a974a7e37364567c11ff0673606a5fd0f',1,'NullFrameworkException::RunnableUtils']]]
+  ['searchdrawer_0',['SearchDrawer',['../class_man_you_are_cool_1_1_search_sort_1_1_search_drawer.html',1,'ManYouAreCool::SearchSort']]],
+  ['sortdrawer_1',['SortDrawer',['../class_man_you_are_cool_1_1_search_sort_1_1_sort_drawer.html',1,'ManYouAreCool::SearchSort']]],
+  ['sortingalgorithm_2',['SortingAlgorithm',['../class_man_you_are_cool_1_1_search_sort_1_1_sorting_algorithm.html',1,'ManYouAreCool::SearchSort']]]
 ];

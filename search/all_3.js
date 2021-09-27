@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['inputhandling_6',['InputHandling',['../d0/d14/namespace_null_framework_exception_1_1_mobile_1_1_input_handling.html',1,'NullFrameworkException::Mobile']]],
-  ['mobile_7',['Mobile',['../df/d95/namespace_null_framework_exception_1_1_mobile.html',1,'NullFrameworkException']]],
-  ['nullframeworkexception_8',['NullFrameworkException',['../da/d69/namespace_null_framework_exception.html',1,'']]]
+  ['manyouarecool_0',['ManYouAreCool',['../namespace_man_you_are_cool.html',1,'']]],
+  ['menu_1',['Menu',['../namespace_man_you_are_cool_1_1_menu.html',1,'ManYouAreCool']]],
+  ['searchsort_2',['SearchSort',['../namespace_man_you_are_cool_1_1_search_sort.html',1,'ManYouAreCool']]]
 ];

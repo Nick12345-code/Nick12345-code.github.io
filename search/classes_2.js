@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['mobileinputmanager_19',['MobileInputManager',['../d5/dba/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_mobile_input_manager.html',1,'NullFrameworkException::Mobile::InputHandling']]],
-  ['monosingleton_20',['MonoSingleton',['../de/d64/class_null_framework_exception_1_1_mono_singleton.html',1,'NullFrameworkException']]],
-  ['monosingleton_3c_20mobileinputmanager_20_3e_21',['MonoSingleton&lt; MobileInputManager &gt;',['../de/d64/class_null_framework_exception_1_1_mono_singleton.html',1,'NullFrameworkException']]]
+  ['fibonaccisearch_0',['FibonacciSearch',['../class_man_you_are_cool_1_1_search_sort_1_1_fibonacci_search.html',1,'ManYouAreCool::SearchSort']]]
 ];

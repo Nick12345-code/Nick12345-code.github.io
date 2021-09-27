@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['runnablebehaviour_22',['RunnableBehaviour',['../dd/d99/class_null_framework_exception_1_1_runnable_behaviour.html',1,'NullFrameworkException']]],
-  ['runnableutils_23',['RunnableUtils',['../d9/d99/class_null_framework_exception_1_1_runnable_utils.html',1,'NullFrameworkException']]]
+  ['optionscustomisation_0',['OptionsCustomisation',['../class_man_you_are_cool_1_1_options_customisation.html',1,'ManYouAreCool']]],
+  ['optionsdrawer_1',['OptionsDrawer',['../class_man_you_are_cool_1_1_menu_1_1_options_drawer.html',1,'ManYouAreCool::Menu']]]
 ];

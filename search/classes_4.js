@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['swipe_24',['Swipe',['../d8/da8/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_swipe_input_handler_1_1_swipe.html',1,'NullFrameworkException::Mobile::InputHandling::SwipeInputHandler']]],
-  ['swipeinputhandler_25',['SwipeInputHandler',['../df/d6d/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_swipe_input_handler.html',1,'NullFrameworkException::Mobile::InputHandling']]],
-  ['swipeinputhandlerbase_26',['SwipeInputHandlerBase',['../de/d41/class_mobile_input_system_1_1_swipe_input_handler_base.html',1,'MobileInputSystem']]]
+  ['searchdrawer_0',['SearchDrawer',['../class_man_you_are_cool_1_1_search_sort_1_1_search_drawer.html',1,'ManYouAreCool::SearchSort']]],
+  ['sortdrawer_1',['SortDrawer',['../class_man_you_are_cool_1_1_search_sort_1_1_sort_drawer.html',1,'ManYouAreCool::SearchSort']]],
+  ['sortingalgorithm_2',['SortingAlgorithm',['../class_man_you_are_cool_1_1_search_sort_1_1_sorting_algorithm.html',1,'ManYouAreCool::SearchSort']]]
 ];

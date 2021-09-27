@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['setup_3c_20trunnable_20_3e_32',['Setup&lt; TRunnable &gt;',['../d9/d99/class_null_framework_exception_1_1_runnable_utils.html#af664189433c61be2596e5fbf58cf7106',1,'NullFrameworkException::RunnableUtils']]]
+  ['play_0',['Play',['../class_man_you_are_cool_1_1_menu_1_1_button_customisation.html#a206a4d2cd09c68b8b23b31d505e6546e',1,'ManYouAreCool::Menu::ButtonCustomisation']]]
 ];

@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['mobileinputsystem_27',['MobileInputSystem',['../dd/d79/namespace_mobile_input_system.html',1,'']]]
+  ['manyouarecool_0',['ManYouAreCool',['../namespace_man_you_are_cool.html',1,'']]],
+  ['menu_1',['Menu',['../namespace_man_you_are_cool_1_1_menu.html',1,'ManYouAreCool']]],
+  ['searchsort_2',['SearchSort',['../namespace_man_you_are_cool_1_1_search_sort.html',1,'ManYouAreCool']]]
 ];
